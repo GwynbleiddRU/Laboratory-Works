@@ -1,0 +1,10 @@
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\bin\Debug\LAB_8.exe.config
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\bin\Debug\LAB_8.exe
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\bin\Debug\LAB_8.pdb
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.Properties.Resources.resources
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.csproj.GenerateResource.cache
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.exe
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.pdb
+C:\Users\Пользователь ПК\source\repos\LAB_8\LAB_8\obj\Debug\LAB_8.Phoenix.resources
