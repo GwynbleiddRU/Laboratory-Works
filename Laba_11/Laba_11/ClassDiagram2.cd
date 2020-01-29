@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Laba_11.Kingdom">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAKAAAAAAAAAEAAAAAAAAEBEEAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Kingdom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_11.Monarchy">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAAAAEAAAAAAAAEAAEAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Monarchy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Laba_11.SortByGDP" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Laba_11.Program">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAQAiAAAAQAAAAAIQIACAAAABgAAAOSAABgAQAFE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_11.Republic">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAEAAAAAAAAEAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Republic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_11.State">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAQCAAAAAgQAEAAFAAEAAQQAAIAABAA=</HashCode>
+      <FileName>State.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Laba_11.SortedDictionaryWork">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAACAABAAAAAAIAAAAEAEAAAUAAAAAIAAAARA=</HashCode>
+      <FileName>SortedDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Laba_11.DictComparer" Collapsed="true">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>SortedDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Laba_11.StateInterface">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQCAABAAAQAEAAEAAgAAQAAAAAAAAA=</HashCode>
+      <FileName>StateInterface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

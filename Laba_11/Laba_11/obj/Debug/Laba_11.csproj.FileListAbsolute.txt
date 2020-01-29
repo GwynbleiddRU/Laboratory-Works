@@ -1,0 +1,14 @@
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\obj\Debug\Laba_11.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\bin\Debug\Laba_11.exe.config
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\bin\Debug\Laba_11.exe
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\bin\Debug\Laba_11.pdb
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\obj\Debug\Laba_11.exe
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\obj\Debug\Laba_11.pdb
+C:\Users\Пользователь ПК\source\repos\Laba_11\Laba_11\obj\Debug\Laba_11.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\bin\Debug\Laba_11.exe.config
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\bin\Debug\Laba_11.exe
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\bin\Debug\Laba_11.pdb
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\obj\Debug\Laba_11.csprojAssemblyReference.cache
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\obj\Debug\Laba_11.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\obj\Debug\Laba_11.exe
+C:\Users\Пользователь ПК\source\repos\2018_Laboratory_Works\Laba_11\Laba_11\obj\Debug\Laba_11.pdb
